@@ -20,4 +20,9 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
