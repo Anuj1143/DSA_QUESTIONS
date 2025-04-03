@@ -8,6 +8,9 @@ class Solution {
             int j=n-1;
             while(i<j){
                 int sum=nums[k]+nums[i]+nums[j];
+                 if (sum == target) {
+                    return sum;
+                }
                 if(Math.abs(target-sum)<Math.abs(target-closestSum))
                     closestSum=sum;
                 
