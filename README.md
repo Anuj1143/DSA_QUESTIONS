@@ -16,11 +16,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
@@ -32,5 +34,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
