@@ -20,6 +20,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 ## Sorting
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
