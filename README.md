@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
