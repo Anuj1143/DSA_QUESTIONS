@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
@@ -57,6 +58,7 @@
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
