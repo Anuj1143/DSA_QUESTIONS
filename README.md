@@ -54,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
 ## Backtracking
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
