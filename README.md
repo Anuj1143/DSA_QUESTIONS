@@ -82,6 +82,7 @@
 | [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
+| [2998-count-symmetric-integers](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2998-count-symmetric-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2998-count-symmetric-integers](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
 ## Memoization
 |  |
