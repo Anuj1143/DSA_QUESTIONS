@@ -30,6 +30,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
@@ -43,6 +44,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -93,6 +95,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 ## Binary Search
 |  |
 | ------- |
