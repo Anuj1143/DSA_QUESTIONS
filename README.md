@@ -42,6 +42,7 @@
 | [0031-next-permutation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 ## Binary Search
 |  |
 | ------- |
