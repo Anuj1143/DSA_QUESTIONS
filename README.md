@@ -28,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
@@ -37,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
