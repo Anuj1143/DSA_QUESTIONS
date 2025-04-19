@@ -46,6 +46,7 @@
 | [0031-next-permutation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
