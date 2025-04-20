@@ -4,17 +4,20 @@ class Solution {
         for(int num:nums1){
             set1.add(num);
         }
-        Set<Integer>set2=new HashSet<>();
+        //Set<Integer>set2=new HashSet<>();
+
+        List<Integer>resultList=new ArrayList<>();
         for(int num:nums2){
             if(set1.contains(num)){
-                set2.add(num);
+                resultList.add(num);
+                set1.remove(num);
             }
         }
-        int result[]=new int[set2.size()];
-        int i=0;
-        for(int num:set2){
-            result[i++]=num;
-        }
+        int result[]=new int[resultList.size()];
+         int i=0;
+        for(int num:resultList){
+             result[i++]=num;
+         }
         return result;
     }
 }
