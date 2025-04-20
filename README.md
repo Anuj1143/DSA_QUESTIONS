@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -38,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0162-find-peak-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
@@ -92,6 +95,7 @@
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 | [0035-search-insert-position](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
