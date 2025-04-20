@@ -34,6 +34,7 @@
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -52,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
@@ -83,6 +85,7 @@
 | [0027-remove-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
