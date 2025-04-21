@@ -73,6 +73,7 @@
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
@@ -135,6 +136,7 @@
 | [0162-find-peak-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
