@@ -26,6 +26,7 @@
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
@@ -101,6 +102,7 @@
 | [0031-next-permutation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
