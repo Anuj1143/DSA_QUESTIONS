@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -47,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0018-4sum) |
