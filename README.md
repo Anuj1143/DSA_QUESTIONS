@@ -62,6 +62,7 @@
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
@@ -171,6 +173,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 ## Tree
