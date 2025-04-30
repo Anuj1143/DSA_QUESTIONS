@@ -75,6 +75,7 @@
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
