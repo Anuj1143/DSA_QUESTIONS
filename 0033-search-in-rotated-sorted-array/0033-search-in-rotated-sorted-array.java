@@ -1,33 +1,32 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int start = 0;
-        int end = nums.length - 1;
-
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-
-            if (nums[mid] == target) {
+        int s=0;
+        int end=nums.length-1;
+        while(s<=end){
+            int mid=s+(end-s)/2;
+            if(nums[mid]==target){
                 return mid;
             }
 
-            // Check if left half is sorted
-            if (nums[start] <= nums[mid]) {
-                if (nums[start] <= target && target < nums[mid]) {
-                    end = mid - 1;
-                } else {
-                    start = mid + 1;
-                }
+            if(nums[s]<=nums[mid]){
+                if(nums[s]<=target && target<=nums[mid]){
+                    end=mid-1;
             }
-            // Right half must be sorted
-            else {
-                if (nums[mid] < target && target <= nums[end]) {
-                    start = mid + 1;
-                } else {
-                    end = mid - 1;
-                }
+            else{
+                s=mid+1;
             }
-        }
+            }
 
-        return -1; // target not found
+            else{
+                if(nums[end]<=target && target<=nums[mid]){
+                        s=mid+1;
+                }
+                else{
+                    end=mid-1;
+                }
+            }
+          
+        }
+        return -1;
     }
 }
