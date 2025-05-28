@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -31,6 +32,7 @@
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
