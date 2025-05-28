@@ -5,11 +5,11 @@ class Solution {
         for(char ch:order.toCharArray()){
             mapping[ch-'a']=seq++;
         }
-        for(int i=0; i<words.length-1;i++){
+        for(int i=0; i<words.length-1; i++){
             String curr=words[i];
             String next=words[i+1];
             int len=Math.min(curr.length(), next.length());
-            if(curr.startsWith(next)&& curr.length()>next.length()){
+            if(curr.startsWith(next) && curr.length()> next.length()){
                 return false;
             }
             for(int j=0; j<len; j++){
