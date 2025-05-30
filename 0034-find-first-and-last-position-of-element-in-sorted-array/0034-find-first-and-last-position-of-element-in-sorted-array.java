@@ -1,5 +1,5 @@
 class Solution {
-    int findLeftMost(int[] nums, int target){
+    int findLeftMost(int[] nums,int target){
         int start=0;
         int end=nums.length-1;
         int left_most=-1;
@@ -9,7 +9,7 @@ class Solution {
                 left_most=mid;
                 end=mid-1;
             }
-            else if(nums[mid]<target){
+            else if(target>nums[mid]){
                 start=mid+1;
             }
             else{
@@ -17,9 +17,8 @@ class Solution {
             }
         }
         return left_most;
-
-    }
-    int findRightMost(int[] nums, int target){
+    } 
+    int findRightMost(int[]nums, int target){
         int start=0;
         int end=nums.length-1;
         int right_most=-1;
@@ -35,13 +34,15 @@ class Solution {
             else{
                 end=mid-1;
             }
+            
         }
         return right_most;
     }
     public int[] searchRange(int[] nums, int target) {
-       int left_most=findLeftMost( nums, target);
-       int right_most=findRightMost(nums,target);
-       return new int[]{left_most, right_most};
-        
+        int left_most=findLeftMost(nums, target);
+        int right_most=findRightMost(nums, target);
+
+        return new int[]{left_most, right_most};
     }
+
 }
