@@ -44,6 +44,7 @@
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +200,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 ## Tree
 |  |
@@ -238,4 +241,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
