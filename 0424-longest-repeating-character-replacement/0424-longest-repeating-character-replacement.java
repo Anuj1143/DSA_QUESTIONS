@@ -10,12 +10,9 @@ class Solution {
             while((right-left+1)-maxFreq>k){
                 count[s.charAt(left)-'A']--;
                 left++;
-
             }
-
             maxLen=Math.max(maxLen, right-left+1);
         }
-        
         return maxLen;
     }
 }
