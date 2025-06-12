@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -33,6 +34,7 @@
 | [0179-largest-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sorting
@@ -148,6 +150,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
