@@ -33,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
@@ -161,6 +162,7 @@
 | [0066-plus-one](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 ## Enumeration
 |  |
