@@ -1,30 +1,41 @@
 class Solution {
-    String generate(String s){
-        int count[]=new int[26];
-        for(char ch:s.toCharArray() ){
-            count[ch-'a']++;
-
-        }
-        StringBuilder NewS=new StringBuilder();
-        for(int i=0; i<26;i++){
-            if(count[i]>0){
-                NewS.append(String.valueOf((char)(i+'a')).repeat(count[i]));
-            }
-
-        }
-        return NewS.toString();
-    }
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>>mp=new HashMap<>();
-       for(String s:strs){
-        String NewS=generate(s);
-        if(!mp.containsKey(NewS)){
-            mp.put(NewS, new ArrayList<>());
 
-
+        if(strs==null || strs.length==0){
+            return new ArrayList<>();
         }
-        mp.get(NewS).add(s);
-       }
-    return new ArrayList<>(mp.values());
+        Map<String, List<String>>map=new HashMap<>();
+
+        for(String  str:strs){
+            String freqString=getFreqString(str);
+            if(map.containsKey(freqString)){
+                map.get(freqString).add(str);
+            }
+            else{
+                List<String>strList=new ArrayList<>();
+                strList.add(str);
+                map.put(freqString, strList);
+            }
+        }
+        return new ArrayList<>(map.values());
+        
+    }
+
+    private String getFreqString(String strs){
+        int freq[]=new int[26];
+
+        for(char c:strs.toCharArray()){
+            freq[c-'a']++;
+        }
+
+
+        StringBuilder freqString=new StringBuilder();
+        char c = 'a';
+        for(int i:freq){
+            freqString.append(c);
+            freqString.append(i);
+            c++;
+        }
+        return freqString.toString();
     }
 }
