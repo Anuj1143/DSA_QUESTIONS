@@ -38,6 +38,7 @@
 | [0412-fizz-buzz](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0647-palindromic-substrings) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sorting
@@ -128,6 +129,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -151,6 +153,7 @@
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
