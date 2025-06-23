@@ -1,25 +1,22 @@
 class Solution {
-    static Boolean dp[][];
-    static Boolean check(String s, int i, int j){
-        if(i>j){
-            return true;
-
-        }
-        if(dp[i][j]!=null){
-            return dp[i][j];
-        }
-        if(s.charAt(i)==s.charAt(j)){
-            return dp[i][j]=check(s, i+1, j-1);
-        }
-        return dp[i][j]=false;
-    }
     public int countSubstrings(String s) {
         int n=s.length();
-        dp=new Boolean[n][n];
+        boolean [][]t=new boolean[n][n];
         int count=0;
-        for(int i=0; i<n; i++){
-            for(int j=i; j<n; j++){
-                if(check(s, i, j)){
+        for(int l=1; l<=n; l++){
+            for(int i=0;i+l-1<n ; i++){
+                int j=i+l-1;
+                if(i==j){
+                    t[i][j]=true;
+                }
+               else  if(i+1==j){
+                t[i][j]=s.charAt(i)==s.charAt(j);
+
+                }
+                else{
+                    t[i][j]=(s.charAt(i)==s.charAt(j)&& t[i+1][j-1]);
+                }
+                if(t[i][j]){
                     count++;
                 }
             }
