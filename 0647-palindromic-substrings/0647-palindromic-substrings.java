@@ -1,8 +1,9 @@
 class Solution {
     static Boolean dp[][];
-    public boolean check(String s, int i, int j){
+    static Boolean check(String s, int i, int j){
         if(i>j){
             return true;
+
         }
         if(dp[i][j]!=null){
             return dp[i][j];
@@ -16,8 +17,8 @@ class Solution {
         int n=s.length();
         dp=new Boolean[n][n];
         int count=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n; j++){
+        for(int i=0; i<n; i++){
+            for(int j=i; j<n; j++){
                 if(check(s, i, j)){
                     count++;
                 }
