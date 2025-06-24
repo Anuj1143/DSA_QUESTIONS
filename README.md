@@ -61,6 +61,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -155,6 +157,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0647-palindromic-substrings) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 | [0179-largest-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Counting Sort
 |  |
 | ------- |
