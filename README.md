@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
@@ -274,6 +275,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
