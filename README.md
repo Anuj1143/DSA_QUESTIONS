@@ -19,6 +19,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
+| [2902-max-pair-sum-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2902-max-pair-sum-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
@@ -117,6 +118,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2902-max-pair-sum-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2902-max-pair-sum-in-an-array) |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
