@@ -4,19 +4,25 @@ class Solution {
         for(int num:nums){
             mp.put(num, mp.getOrDefault(num, 0)+1);
         }
-        PriorityQueue<int[]>pq=new PriorityQueue<>(Comparator.comparingInt(a->a[0]));
-        for(Map.Entry<Integer, Integer>entry:mp.entrySet()){
-            pq.offer(new int[]{entry.getValue(), entry.getKey()});
+        List<Integer>[]bucket=new List[nums.length+1];
+        for(int i=0; i<=nums.length; i++){
+            bucket[i]=new  ArrayList<>();
+        }
 
-            if(pq.size()>k){
-                pq.poll();
+        for(Map.Entry<Integer, Integer>entry:mp.entrySet()){
+            bucket[entry.getValue()].add(entry.getKey());
+        }
+
+        List<Integer>result=new ArrayList<>();
+        for(int i=bucket.length-1; i>=0 && result.size()<k; i--){
+            if(!bucket[i].isEmpty()){
+                result.addAll(bucket[i]);
             }
         }
-        int result[]=new int[k];
-        int i=0;
-        while(!pq.isEmpty()){
-            result[i++]=pq.poll()[1];
+        int [] topK=new int[k];
+        for(int i=0; i<k; i++){
+            topK[i]=result.get(i);
         }
-        return result;
+        return  topK;
     }
 }
