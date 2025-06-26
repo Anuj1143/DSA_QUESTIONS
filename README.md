@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2902-max-pair-sum-in-an-array) |
@@ -42,6 +43,7 @@
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sorting
@@ -63,6 +65,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Array
@@ -112,6 +115,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
@@ -256,6 +260,7 @@
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
 | ------- |
@@ -300,14 +305,17 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
