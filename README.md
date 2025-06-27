@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
@@ -196,6 +198,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
 ## Binary Search
@@ -326,4 +329,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
