@@ -13,11 +13,11 @@ class Solution {
             }
             else if(Character.toLowerCase(l)!=Character.toLowerCase(r)){
                 return false;
-            }else{
+            }
+            else{
                 left++;
                 right--;
             }
-
         }
         return true;
     }
