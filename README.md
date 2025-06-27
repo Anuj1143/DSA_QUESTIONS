@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -330,4 +332,8 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
