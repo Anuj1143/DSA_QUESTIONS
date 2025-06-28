@@ -14,11 +14,7 @@ class Solution {
         }
         int total=0;
         for(int i=0;i<n; i++){
-        int left=prefix[i];
-        int  right=suffix[i];
-        if(nums[i]<left && nums[i]<right){
-            total+=Math.min(left, right )-nums[i];
-        }
+        total+=Math.min(prefix[i], suffix[i])-nums[i];
         }
         return total;
     }
