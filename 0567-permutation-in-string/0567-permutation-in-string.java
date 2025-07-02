@@ -2,23 +2,26 @@ class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int n=s1.length();
         int m=s2.length();
-        if(n>m) return false;
-        char[]ch1=s1.toCharArray();
-        
+        int arr1[]=new int[26];
+        int arr2[]=new int[26];
 
-        Arrays.sort(ch1);
-        String str1=new String(ch1);
-        for(int i=0; i<=m-n;i++){
-            String sub=s2.substring(i,i+n);
-            char[] ch2=sub.toCharArray();
-            Arrays.sort(ch2);
-            String str2=new String(ch2);
-            if(str1.equals(str2)){
+        for(char ch:s1.toCharArray()){
+            arr1[ch-'a']++;
+        }
+        int i=0;
+        int j=0;
+        while(j<m){
+            arr2[s2.charAt(j)-'a']++;
+            if(j-i+1>n){
+                arr2[s2.charAt(i)-'a']--;
+                i++;
+            }
+            if(Arrays.equals(arr1, arr2)){
                 return true;
             }
+            j++;
         }
-        return false;
+
+return false;
     }
-
-
 }
