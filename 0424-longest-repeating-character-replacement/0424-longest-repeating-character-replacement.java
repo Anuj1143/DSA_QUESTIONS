@@ -4,14 +4,15 @@ class Solution {
         int left=0;
         int maxLen=0;
         int maxFreq=0;
-        for(int right=0; right<s.length(); right++){
-            count[s.charAt(right)-'A']++;
-            maxFreq=Math.max(maxFreq, count[s.charAt(right)-'A']);
-            while((right-left+1)-maxFreq>k){
+        for(int i=0; i<s.length(); i++){
+            count[s.charAt(i)-'A']++;
+            maxFreq=Math.max(maxFreq, count[s.charAt(i)-'A']);
+            while((i-left+1)-maxFreq>k){
                 count[s.charAt(left)-'A']--;
-                left++;
+                    left++;
+
             }
-            maxLen=Math.max(maxLen, right-left+1);
+            maxLen=Math.max(maxLen,i-left+1);
         }
         return maxLen;
     }
