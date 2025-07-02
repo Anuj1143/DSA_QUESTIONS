@@ -1,12 +1,13 @@
 class Solution {
-    boolean solve(String s, int i, int j){
+    static boolean solve(String s, int i, int j){
         if(i>=j){
             return true;
+
         }
         if(s.charAt(i)==s.charAt(j)){
-            return  solve(s, i+1, j-1);
+            return solve(s, i+1, j-1);
         }
-    return false;
+        return false;
     }
     public String longestPalindrome(String s) {
         int n=s.length();
@@ -22,6 +23,6 @@ class Solution {
                 }
             }
         }
-        return s.substring(sp, sp+ maxLen);
+        return s.substring(sp, sp+maxLen);
     }
 }
