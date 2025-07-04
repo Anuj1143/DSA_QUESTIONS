@@ -4,7 +4,6 @@ class Solution {
         int m=s2.length();
         int arr1[]=new int[26];
         int arr2[]=new int[26];
-
         for(char ch:s1.toCharArray()){
             arr1[ch-'a']++;
         }
@@ -21,7 +20,6 @@ class Solution {
             }
             j++;
         }
-
-return false;
+        return false;
     }
 }
