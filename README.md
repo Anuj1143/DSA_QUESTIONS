@@ -123,6 +123,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -190,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0567-permutation-in-string) |
@@ -331,6 +333,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -351,4 +354,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
