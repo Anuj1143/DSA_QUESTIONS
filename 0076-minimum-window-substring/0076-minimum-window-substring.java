@@ -11,35 +11,33 @@ class Solution {
         int i=0;
         int j=0;
         int minWindow=Integer.MAX_VALUE;
-        int required=t.length();
         int start_i=0;
+        int required=t.length();
         while(j<n){
             char ch=s.charAt(j);
-            
             if(mp.containsKey(ch)){
                 if(mp.get(ch)>0){
                     required--;
                 }
-                mp.put(ch, mp.getOrDefault(ch,0)-1);
+                mp.put(ch, mp.getOrDefault(ch, 0)-1);
             }
             while(required==0){
                 int currWindow=j-i+1;
-            if(minWindow>currWindow){
-                minWindow=currWindow;
-                start_i=i;
-            }
-                char startChar=s.charAt(i);
-                if(mp.containsKey(startChar)){
-                    mp.put(startChar, mp.getOrDefault(startChar, 0)+1);
-                    if(mp.get(startChar)>0){
+                if(minWindow>currWindow){
+                    minWindow=currWindow;
+                    start_i=i;
+                }
+                char start=s.charAt(i);
+                if(mp.containsKey(start)){
+                    mp.put(start, mp.getOrDefault(start, 0)+1);
+                    if(mp.get(start)>0){
                         required++;
                     }
-                    
+
                 }
                 i++;
             }
             j++;
-
         }
         return minWindow==Integer.MAX_VALUE?"":s.substring(start_i, start_i+minWindow);
     }
