@@ -1,10 +1,9 @@
 class Solution {
-    boolean allZero(int []count){
+    boolean allZero(int[] count){
         for(int i:count){
             if(i!=0){
                 return false;
             }
-            
         }
         return true;
     }
@@ -16,20 +15,20 @@ class Solution {
         }
         int i=0;
         int j=0;
-        List<Integer>ans=new ArrayList<>();
+        List<Integer>result=new ArrayList<>();
+
         int k=p.length();
         while(j<n){
             count[s.charAt(j)-'a']--;
             if((j-i+1)==k){
                 if(allZero(count)){
-                    ans.add(i);
+                    result.add(i);
                 }
                 count[s.charAt(i)-'a']++;
                 i++;
             }
             j++;
-
         }
-        return ans;
+        return result;
     }
 }
