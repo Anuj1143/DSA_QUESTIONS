@@ -132,6 +132,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
@@ -315,11 +316,13 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
