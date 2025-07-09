@@ -23,6 +23,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
@@ -130,6 +131,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
@@ -312,10 +314,12 @@
 | [0042-trapping-rain-water](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
