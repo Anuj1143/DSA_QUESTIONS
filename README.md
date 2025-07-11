@@ -135,6 +135,7 @@
 | [0503-next-greater-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
@@ -317,12 +318,14 @@
 | [0155-min-stack](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
