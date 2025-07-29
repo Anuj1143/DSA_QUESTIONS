@@ -7,7 +7,7 @@ class Solution {
         map.put('L', 50);
         map.put('C', 100);
         map.put('D', 500);
-        map.put('M', 100);
+        map.put('M', 1000);
         char ch[]=s.toCharArray();
         int result=0;
         int i, j;
