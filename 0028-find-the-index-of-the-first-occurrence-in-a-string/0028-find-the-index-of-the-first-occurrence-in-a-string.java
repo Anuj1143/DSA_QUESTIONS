@@ -11,9 +11,9 @@ class Solution {
                 if(j==n-1){
                     return i;
                 }
+
             }
         }
         return -1;
-        
     }
 }
