@@ -149,6 +149,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2902-max-pair-sum-in-an-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3221-find-the-peaks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
@@ -222,6 +223,7 @@
 | [1013-fibonacci-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
 | [2998-count-symmetric-integers](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2998-count-symmetric-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
