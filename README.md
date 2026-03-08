@@ -29,6 +29,7 @@
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
+| [1980-find-unique-binary-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2902-max-pair-sum-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
@@ -60,6 +61,7 @@
 | [0692-top-k-frequent-words](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0990-verifying-an-alien-dictionary) |
+| [1980-find-unique-binary-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1031-add-to-array-form-of-integer) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1980-find-unique-binary-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1980-find-unique-binary-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/2902-max-pair-sum-in-an-array) |
@@ -233,6 +236,7 @@
 | [0037-sudoku-solver](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0047-permutations-ii) |
+| [1980-find-unique-binary-string](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
 |  |
 | ------- |
