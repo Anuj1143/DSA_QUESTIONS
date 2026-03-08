@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0561-array-partition) |
@@ -132,6 +134,7 @@
 | [0229-majority-element-ii](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -222,6 +225,7 @@
 | [0070-climbing-stairs](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/1013-fibonacci-number) |
@@ -247,6 +251,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0792-binary-search) |
@@ -257,6 +262,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anuj1143/DSA_QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
